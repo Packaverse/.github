@@ -1,53 +1,59 @@
 # 🧱 Welcome to Packaverse
 
-**Packaverse** is a collaborative organization dedicated to enhancing the Minecraft Bedrock Edition experience. We specialize in developing tools, patches, and utilities that empower creators and players alike.
+**Packaverse** is a collaborative organization dedicated to enhancing the Minecraft Bedrock Edition experience. We build tools, patches, and resources for creators and players.
+
+---
+
+## 🌐 Our Website
+
+Visit our official website for documentation, project showcases, and community resources:  
+👉 **[Packverse.dev](https://packverse.dev/)**
 
 ---
 
 ## 🚀 Our Mission
 
-At Packaverse, our goal is to simplify and enrich the Minecraft Bedrock Edition ecosystem. We achieve this by:
+At Packaverse, we aim to:
 
-- Creating user-friendly tools for content creators.
-- Developing patches to improve gameplay and modding capabilities.
-- Providing resources that streamline the development process.
+- Simplify Minecraft Bedrock Edition modding and content creation
+- Provide powerful tools and utilities for the community
+- Share knowledge and resources to empower creators
 
 ---
 
 ## 🛠️ Featured Projects
 
-Here are some of our key repositories:
+- [**Packverse.dev**](https://github.com/Packaverse/Packverse.dev):  
+  The source code for our official website and documentation hub.
 
-- **[Custom Cape Generator for Minecraft Bedrock Edition](https://github.com/Packaverse/Custom-cape-generator-for-minecraft-Bedrock-edition)**  
-  A web-based tool that allows players to create and apply custom capes to their Minecraft avatars effortlessly.
+- [**Custom Cape Generator**](https://github.com/Packaverse/Custom-Cape-Generator):  
+  A web tool for creating and applying custom capes in Minecraft Bedrock Edition.
 
-- **[Bedrock Patches](https://github.com/Packaverse/Bedrock-Patches)**  
-  A collection of patches designed to fix common issues and enhance the functionality of Minecraft Bedrock Edition.
+- [**Bedrock Patches**](https://github.com/Packaverse/Bedrock-Patches):  
+  A collection of patches to enhance and fix Minecraft Bedrock Edition.
 
-- **[player.entity.json Merger](https://github.com/Packaverse/player.entity.json-merger)**  
-  A utility that merges `player.entity.json` files without conflicts, streamlining the modding process for developers.
-
-Feel free to explore these repositories to see the code in action, contribute, or provide feedback!
+- [**player.entity.json Merger**](https://github.com/Packaverse/player.entity.json-Merger):  
+  A utility for merging `player.entity.json` files without conflicts.
 
 ---
 
-## 🤝 Join the Community
+## 🤝 Get Involved
 
-We welcome contributions from developers, designers, and Minecraft enthusiasts. Whether you're interested in coding, testing, or providing feedback, there's a place for you at Packaverse.
+We welcome contributions from developers, designers, and Minecraft fans!  
+Check out our repositories, open issues, and start collaborating.
 
-- **GitHub**: [@Packaverse](https://github.com/Packaverse)
-- **Email**: packaverseorg@gmail.com
-
-Let's build something amazing together!
+- **GitHub:** [@Packaverse](https://github.com/Packaverse)
+- **Website:** [Packverse.dev](https://packverse.dev/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Packaverse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Packaverse&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Packaverse&layout=compact&theme=radical)
+Thank you for supporting Packaverse!  
+*Explore, contribute, and help us shape the future of Minecraft Bedrock Edition.*
 
 ---
 
-*Thank you for visiting Packaverse!*
+> _Happy Crafting from the Packaverse Team!_
+
+---
